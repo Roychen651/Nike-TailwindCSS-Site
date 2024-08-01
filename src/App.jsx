@@ -1,6 +1,5 @@
 import React from 'react'
 import Hero from './sections/Hero'
-// import Nav from './sections/Nav'
 import PopularProducts from './sections/PopularProducts'
 import SuperQuality from './sections/SuperQuality'
 import Services from './sections/Services'
@@ -8,12 +7,13 @@ import SpecialOffers from './sections/SpecialOffers'
 import CustomerReviews from './sections/CustomerReviews'
 import Subscribe from './sections/Subscribe'
 import Footer from './sections/Footer'
+import Nav from './Components/Nav'
 
 
 const App = () => (
 
   <main className='relative'>
-    {/* Nav */}
+    <Nav />
     <section className='xl:padding-1 wide:padding-r padding-b'>
       <Hero/>
     </section>
