@@ -37,8 +37,8 @@ export const products = [
     },
     {
         imgURL: shoe5,
-        name: "Nike Air Jordan-10",
-        price: "$210.20",
+        name: "K-Swiss Classic",
+        price: "$150.20",
     },
     {
         imgURL: shoe6,
@@ -47,7 +47,7 @@ export const products = [
     },
     {
         imgURL: shoe7,
-        name: "Nike Air Jordan-001",
+        name: "New Balance 574",
         price: "$230.20",
     },
 ];

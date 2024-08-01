@@ -1,14 +1,16 @@
 import React from 'react'
-import HeaderLogo from '../assets/images/header-logo.svg'
+import ShoeSVG from '../assets/images/shoesvg.svg'
 import { navLinks } from '../constants'
 import { hamburger } from '../assets/icons'
+
+
 const Nav = () => {
   return (
     <header className='padding-x py-8 absolute z-10 w-full'>
       <nav className='flex justify-between items-center max-container'>
         <a href='/'>
           <img
-            src={HeaderLogo}
+            src={ShoeSVG}
             alt='logo'
             width={129}
             height={29}
