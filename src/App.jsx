@@ -1,33 +1,42 @@
 import React from 'react'
+import Hero from './sections/Hero'
+// import Nav from './sections/Nav'
+import PopularProducts from './sections/PopularProducts'
+import SuperQuality from './sections/SuperQuality'
+import Services from './sections/Services'
+import SpecialOffers from './sections/SpecialOffers'
+import CustomerReviews from './sections/CustomerReviews'
+import Subscribe from './sections/Subscribe'
+import Footer from './sections/Footer'
 
 
 const App = () => (
 
   <main className='relative'>
-    Nav
+    {/* Nav */}
     <section className='xl:padding-1 wide:padding-r padding-b'>
-      Hero
+      <Hero/>
     </section>
     <section className='padding'>
-      PopularProducts
+      <PopularProducts/>
     </section>
     <section className='padding'>
-      SuperQuality
+      <SuperQuality/>
     </section>
     <section className='padding-x py-10'>
-      Services
+      <Services/>
     </section>
     <section className='padding'>
-      SpecialOffers
+      <SpecialOffers/>
     </section>
     <section className='padding bg-pale-blue'>
-      CustomerReviews
+      <CustomerReviews/>
     </section>
     <section className='padding-x sm:py-32 py-16 w-full'>
-      Subscribe
+      <Subscribe/>
     </section>
     <section className='padding bg-black padding-x padding-t pb-8'>
-      Footer
+      <Footer/>
     </section>
 
   </main>
