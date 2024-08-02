@@ -1,5 +1,6 @@
-import { facebook, instagram, shieldTick, support, truckFast, twitter } from "../assets/icons";
+import { facebook, instagram, shieldTick, support, truckFast } from "../assets/icons";
 import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
+import linkedin from "../assets/icons/linkedin.svg";
 
 export const navLinks = [
     { href: "#home", label: "Home" },
@@ -111,14 +112,14 @@ export const footerLinks = [
     {
         title: "Get in touch",
         links: [
-            { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-            { name: "+92554862354", link: "tel:+92554862354" },
+            { name: "roychen651@gmail.com", link: "mailto:roychen651@gmail.com" },
+            { name: "+972508815855", link: "tel:+972508815855" },
         ],
     },
 ];
 
 export const socialMedia = [
     { src: facebook, alt: "facebook logo" },
-    { src: twitter, alt: "twitter logo" },
+    { src: linkedin, alt: "linkedin logo" },
     { src: instagram, alt: "instagram logo" },
 ];
