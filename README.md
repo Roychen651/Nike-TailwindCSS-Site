@@ -2,7 +2,7 @@
 
 Welcome to Shoey Shop! This is an online store where you can browse and purchase the latest and most popular shoes. The website is designed with a modern and responsive layout, ensuring a great user experience across all devices.
 
-![Shoey Shop Screenshot](https://shoeyshop.netlify.app/screenshot.png)
+
 
 ## Table of Contents
 
