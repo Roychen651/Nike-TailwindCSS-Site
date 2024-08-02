@@ -1,8 +1,33 @@
-# React + Vite
+# Shoey Shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to Shoey Shop! This is an online store where you can browse and purchase the latest and most popular shoes. The website is designed with a modern and responsive layout, ensuring a great user experience across all devices.
 
-Currently, two official plugins are available:
+![Shoey Shop Screenshot](https://shoeyshop.netlify.app/screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
+
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies](#technologies)
+
+
+## Demo
+
+Check out the live demo of Shoey Shop [here](https://shoeyshop.netlify.app).
+
+## Features
+
+- Browse through a wide selection of popular shoes
+- Subscribe to our newsletter for updates and promotions
+- Responsive design for optimal viewing on any device
+- User-friendly interface with smooth navigation
+- Interactive animations for a modern look and feel
+
+## Technologies
+
+Shoey Shop is built with the following technologies:
+
+- **React**: A JavaScript library for building user interfaces
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development
+- **Framer Motion**: A library for creating animations
+- **Netlify**: Hosting and continuous deployment
